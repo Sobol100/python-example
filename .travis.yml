@@ -4,5 +4,5 @@ python:
 - 2.7
 - 3.4
 - 3.6.8
-before_script: python before_script.py
+before_script: Cokolwiek przed testem :D
 script: py.test -v
