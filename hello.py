@@ -12,6 +12,8 @@ def say_what():
 
 def main():
     hello(say_what())
+    hello(10)
+    kdsa(a)
     return 0
 
 
